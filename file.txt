@@ -1,0 +1,50 @@
+SUBJECT CODE:
+VIGNANA BHARATHI INSTITUTE OF TECHNOLOGY
+                                                                  (Autonomous)
+II B.Tech II Semester Regular and Supplementary End Examinations, JULY-2022
+SUBJECT NAME
+
+Time: 3 Hours								  Max. Marks: 70
+
+ANSWER ANY FIVE QUESTIONS
+ALL QUESTIONS CARRY EQUAL MARKS
+
+	Marks	Bloom’s 
+Level
+
+Q.1	UNIT-1	a.	Compare open loop & closed loop systems.		L2
+		b.	State and explain Mason’s gain formula		L2
+
+Q.2	UNIT-2	a.	What are the standard test signals?		L1
+		b.	Determine the error coefficients and static error for G(s)= 1/s(s+1)(s+10),H(s)=s+2		L3
+
+Q.3	UNIT-3		Determine the stability of a closed loop control system whose characteristic equation S5+3S4+2S3+6S+6=0		L3
+					
+
+Q.4	UNIT-4		Sketch the Polar plot for a system G(s) =15(s+5)/(s2+16s+100)
+Hence determine the stability of the system.		L3
+					
+
+Q.5	UNIT-5		 		L3
+					
+
+Q.6	UNIT-1 OR    2		Write the equations for time domain specifications of a standard second order system with unit step input		L1
+					
+
+Q.7	UNIT-3  OR 4		Determine the following (i) gain cross over frequency, (ii)phase cross over frequency,(iii)gain margin and (iv) phase margin
+Comment on the stability of the system.Sketch the bode plot of the transfer function G(S)=15(1+0.2S)/S2(S+2)(S+5)		L3
+					
+
+Q.8	UNIT 5 OR 
+WHICH IS NOT COVERED UNIT IN Q6 OR  Q7 		 		L3
+					
+(You are requested to give division of marks in the marks column. If any sub questions are given in any question.)
+
+
+NOTE:
+
+1. Please ensure the above distribution of questions according to the Instructions.
+2. Please see that the questions are within the scope of the syllabus, which can be written by Students in allotted 3 hours time.
+ 3. QUESTIONS FROM EACH UNIT SHOULD NOT BE MORE THAN 2 QUESTIONS IN   
+     THE QUESTION PAPER
+4. IF QUESTION CONTAINS A & B, IT SHOULD BE FROM SAME UNIT ONLY
